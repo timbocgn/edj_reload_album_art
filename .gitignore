@@ -1,0 +1,9 @@
+build/
+CMakeFiles/
+.vscode/
+CMakeCache.txt
+null.d
+edj_reload_album_art
+Makefile
+cmake_install.cmake
+taglib-1.12
